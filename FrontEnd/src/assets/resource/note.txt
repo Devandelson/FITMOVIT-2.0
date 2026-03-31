@@ -1,0 +1,3 @@
+-- Implementaciones 3/31/2026.
+react, router, motion, tailwind.
+y tipos de letras.
