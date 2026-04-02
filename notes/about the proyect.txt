@@ -1,0 +1,21 @@
+Notas del proyecto:
+- El proyecto al fin y al cabo se trata de calcular las rutas de sus integrantes.
+
+Que tenemos:
+- En base a eso tenemos solicitud de empresa y usuario asia una empresa.
+- la empresa puede ver sus integrantes y los diferentes grupos como tambien tener el calculo de su ruta al mes o durante la instancia del integrante.
+- Tenemos informaciones que conosemos sobre transporte para realizar calculo como tambien cuando dura en llegar poniendo la descripcion de la ruta punto a del usuario punto b de la empresa.
+
+--------- vistas
+*** LOGIN (admin [subEmpresa], super admin[Jefe de todo], usuario(Integrante)).
+
+****** Se pueden combinar estas vistas ********
+Solicitud para empresa (Hacia el jefe).
+Solicitud del usuario (Para la empresa a la que pertenece).
+*******************************************************
+
+*** Vista de seguimiento (jefe) para validar los datos y aceptar o declinar.
+*** Vista de usuarios, es lo mismo super admin y admin, solo con diferentes datos en donde pueden realizar lo siguiente:
+-- ver sus usuarios por grupos, editar (ver) y suspender o eliminar permante y guardar sus recargas que se le van a realizar (osea pueden tener un historial de recargas).
+
+========= Si vez un bache dejas saber por si acaso. Falta algo tu lo pones. ===========
