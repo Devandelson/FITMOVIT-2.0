@@ -180,7 +180,7 @@ export default function UserApplicationPage() {
                             <Button
                                 variant="ghost"
                                 icon="fa-solid fa-arrow-left"
-                                href="/login"
+                                href="/"
                             >
                                 Volver al inicio de sesión
                             </Button>
